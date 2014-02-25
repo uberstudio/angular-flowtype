@@ -1,0 +1,10 @@
+{
+  "name": "angular-flowtype",
+  "version": "0.1.0",
+  "repo": "luckyoundead/angular-flowtype",
+  "description": "Flowtype for angular.js",
+  "main": "angular-flowtype.js",
+  "scripts": [
+    "angular-flowtype.js"
+  ]
+}
