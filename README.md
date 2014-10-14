@@ -5,6 +5,11 @@ AngularJS directive for Flowtype.JS
 
 I love using Flowtype.JS and realized there's no out-of-the-box directive out there, pretty easy but thought I'd through it out there anyway.
 
+Installation (via Bower):
+-------------------------
+
+        $ bower install angular-flowtype
+
 Usage:
 ------
 
