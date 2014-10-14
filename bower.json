@@ -1,0 +1,23 @@
+{
+  "name": "angular-flowtype",
+  "main": "angular-flowtype.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/uberstudio/angular-flowtype",
+  "description": "AngularJS simple directive for FlowType.JS",
+  "keywords": [
+    "angular-flowtype",
+    "flowtype",
+    "flowtype.js"
+  ],
+  "authors": [
+    "Über Studio"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
