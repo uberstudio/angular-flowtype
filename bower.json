@@ -12,7 +12,6 @@
   "authors": [
     "Über Studio"
   ],
-  "license": "GPLv3",
   "ignore": [
     "**/.*",
     "node_modules",
