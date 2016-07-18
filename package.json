@@ -1,0 +1,19 @@
+{
+  "name": "@noblesam/angular-flowtype",
+  "version": "1.0.0",
+  "description": "Fork of angular-flowtype for publish to npm.",
+  "main": "angular-flowtype.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noblesamurai/angular-flowtype.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/noblesamurai/angular-flowtype/issues"
+  },
+  "homepage": "https://github.com/noblesamurai/angular-flowtype#readme"
+}
