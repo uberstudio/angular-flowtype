@@ -7,7 +7,7 @@
   
  angular.module('ngFlowtype').directive('flowtype', flowtype);
   
-  flowtype.$inject = []
+  flowtype.$inject = [];
   function flowtype() {
     return {
       restrict: 'A',
